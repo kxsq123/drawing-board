@@ -26,7 +26,7 @@ npm run start
 ## 功能演示
 
 #### 自由绘制
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E8%87%AA%E7%94%B1%E7%94%BB%E6%9D%BF.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/shape.gif)
 ####  绘制几何图形
 ![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E5%87%A0%E4%BD%95%E5%9B%BE%E5%BD%A2.gif)
 ####  操作图片
