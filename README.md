@@ -26,14 +26,14 @@ npm run start
 ## 功能演示
 
 #### 自由绘制
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/shape.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/draw.gif)
 ####  绘制几何图形
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E5%87%A0%E4%BD%95%E5%9B%BE%E5%BD%A2.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/shape.gif)
 ####  操作图片
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E6%93%8D%E4%BD%9C%E5%9B%BE%E7%89%87.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/pic.gif)
 ####  复制粘贴
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/copy.gif)
 ####  撤销，上一步下一步
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E6%92%A4%E9%94%80.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/undo.gif)
 ####  翻页
-![image](https://github.com/kxsq123/drawing-board/blob/master/doc/%E7%BF%BB%E9%A1%B5.gif)
+![image](https://github.com/kxsq123/drawing-board/blob/master/doc/page.gif)
