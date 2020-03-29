@@ -1,0 +1,22 @@
+{
+  "name": "picture-board",
+  "version": "0.0.1",
+  "description": "画板",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node index.js"
+  },
+  "keywords": [
+    "picture-board"
+  ],
+  "author": "boss-fe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^3.0.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
